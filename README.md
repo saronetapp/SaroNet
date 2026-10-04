@@ -8,4 +8,4 @@
 <p dir="auto"><a href="https://github.com/saronetapp/SaroNet/releases/download/2.1.0/SaroNet_2.1.0.apk"><code>Download SaroNet App</code></a></p>
 
 # Telegram Channel
-<a href="https://t.me/saro_net"><code> SaroNet </code></a></p>
+<a href="https://t.me/saronet"><code> SaroNet </code></a></p>
