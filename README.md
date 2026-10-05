@@ -5,7 +5,7 @@
 
 # download
 <p dir="auto"> Downlaod and install <strong>SaroNet</strong> from releases or this link:</p>
-<p dir="auto"><a href="https://github.com/saronetapp/SaroNet/releases/download/2.1.0/SaroNet_2.1.0.apk"><code>Download SaroNet App</code></a></p>
+<p dir="auto"><a href="https://github.com/saronetapp/SaroNet/releases/download/2.1.1/SaroNet_2.1.1.apk"><code>Download SaroNet App</code></a></p>
 
 # Telegram Channel
 <a href="https://t.me/saronet"><code> SaroNet </code></a></p>
